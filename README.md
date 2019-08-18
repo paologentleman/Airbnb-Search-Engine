@@ -11,8 +11,8 @@ The code returns the houses of the data base which matches the descriptions ente
 This project is mostly related to text-mining, where some metrics and tools for computing text similarity score ranking were used.
 
 ____
-# Data
-*The data used are available on the Kaggle challeng [Airbnb Property Data from Texas](https://www.kaggle.com/PromptCloudHQ/airbnb-property-data-from-texas).
+## Data
+The data used are available on the Kaggle challeng [Airbnb Property Data from Texas](https://www.kaggle.com/PromptCloudHQ/airbnb-property-data-from-texas).
 
 ____
 
