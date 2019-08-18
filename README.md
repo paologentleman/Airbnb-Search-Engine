@@ -149,7 +149,3 @@ Here a small example, with all the houses far at most 2km from the 7-Eleven in C
 
 ![Mappa](mappa.png)
 
-
-<p align="center">
-<img src="https://i.pinimg.com/originals/10/72/6d/10726d034df958401052b875246700bb.png">
-</p>
