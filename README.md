@@ -147,7 +147,7 @@ Our tool will work in the following way:
 
 Here a small example, with all the houses far at most 2km from the 7-Eleven in Commerce St, Dallas:
 
-![Mappa](dallas.png)
+![Mappa](mappa.png)
 
 
 <p align="center">
